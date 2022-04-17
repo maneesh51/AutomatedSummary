@@ -1,5 +1,0 @@
-matplotlib==3.5.1
-plotly==5.6.0
-spacy==2.2.4
-st_annotated_text==3.0.0
-streamlit==1.7.0
